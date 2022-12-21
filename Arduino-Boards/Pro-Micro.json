@@ -22,8 +22,8 @@
       ]
     ],
     "mcu": "atmega32u4",
-    "usb_product": "Fusion Phaser",
-    "variant": "leonardo"
+    "usb_product": "Fusion Lightgun",
+    "variant": "Phaser"
   },
   "bootloader": {
     "efuse": "0xCB",
