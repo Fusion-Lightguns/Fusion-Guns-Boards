@@ -14,4 +14,4 @@ Arduino IDE "boards" to make your micro processor act like a Fusion Lightgun
 
 - Select port & burn 
 
-- Your boared will now say Fusion......... when plugged in.
+- Your board will now say Fusion......... when plugged in.
