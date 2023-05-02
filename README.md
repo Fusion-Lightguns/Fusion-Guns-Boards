@@ -2,11 +2,13 @@
 
 Arduino IDE "boards" to make your micro processor act like a Fusion Lightgun
 
-# Useage 
+# Useage/FYI
 
 - If you have IDE open close it.
 
-- Extract Fusion......_Boards.zip to wherever IDE has boards stoed at. Mine are at C:\Users\YOURNAME\AppData\Local\Arduino15\packages
+- Download the board you wanan use .
+
+- Extract Board.zip to wherever IDE has boards stored at. Mine are at C:\Users\gonezo\AppData\Local\Arduino15\packages
 
 - Open Arduino IDE
 
